@@ -24,7 +24,7 @@ Technologies Used
 Installation
 
 Clone this repository to your local machine:
-  git clone https://github.com/nakkeri-vivek/Potato_Disease_Detection.git
+  git clone https://github.com/Jeevanasai123/potato_leaf_disease_prediction.git
 
 Navigate to the project directory:
   cd potato-leaf-disease-detection
